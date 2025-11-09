@@ -1,0 +1,64 @@
+version: 1
+title: "AI & Automatisation Web"
+description: "Filtre de recherche Brave pour la veille technique sur l’intelligence artificielle, l’automatisation, les intégrations API, et le développement web moderne."
+
+include_domains:
+  - openai.com
+  - huggingface.co
+  - anthropic.com
+  - stability.ai
+  - replicate.com
+  - paperswithcode.com
+  - towardsdatascience.com
+  - medium.com
+  - zapier.com
+  - n8n.io
+  - pipedream.com
+  - make.com
+  - integromat.com
+  - automate.io
+  - dev.to
+  - github.com
+  - vercel.com
+  - supabase.com
+  - postman.com
+  - docker.com
+  - python.org
+  - nodejs.org
+  - notion.so
+  - airtable.com
+  - bubble.io
+  - retool.com
+  - figma.com
+
+exclude_domains:
+  - pinterest.com
+  - quora.com
+  - reddit.com
+  - facebook.com
+  - linkedin.com
+  - x.com
+  - twitter.com
+  - tiktok.com
+  - forbes.com
+  - entrepreneur.com
+  - businessinsider.com
+
+boost_terms:
+  - ai
+  - automation
+  - workflow
+  - api
+  - n8n
+  - zapier
+  - make
+  - pipedream
+  - integration
+  - chatgpt
+  - llm
+  - prompt
+  - tutorial
+  - dev
+  - webapp
+  - saas
+  - agent
